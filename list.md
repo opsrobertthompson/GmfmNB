@@ -85,3 +85,4 @@
 - [yaml schema校验工具，根据schema校验yaml配置合法性](https://github.com/opsrobertthompson/GmfmNB/commit/3d17a041b0326364add628c7e31cb739eee129f9)
 - [双目录差异对比 Demo 完整源码输出文件新增修改删除列表](https://github.com/opsrobertthompson/GmfmNB/commit/fd9f31e36bc1caf660f240f8d944d107771d6be7)
 - [开源工具文档补充版本兼容注意事项](https://github.com/opsrobertthompson/GmfmNB/commit/f61cf940636496f692e32f4617f8c7f43a40e65b)
+- [轻量可扩展开源工程仓库 源码资源含集成接入样例](https://github.com/opsrobertthompson/GmfmNB/commit/3041ce1a56feeba26aeccb91ae12eab2c9f445bb)

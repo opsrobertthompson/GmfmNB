@@ -174,3 +174,4 @@
 - [仓库转移所有权，transfer ownership权限风险](https://github.com/opsrobertthompson/GmfmNB/commit/bc28f1a790d372594468d82f56090098b4f21d07)
 - [中药材价格周期波动中药材涨价对上下游企业影响](https://github.com/opsrobertthompson/GmfmNB/commit/52aa9767e077ca86dc1cda16638a73e616c6f64d)
 - [全网到处都是投资机会，普通人赚钱依旧举步维艰](https://github.com/opsrobertthompson/GmfmNB/commit/eab5df82ce2c0f65daf4aa30401755274870703a)
+- [数据库分库分表陷阱，过度拆分带来运维灾难](https://github.com/opsrobertthompson/GmfmNB/commit/974b3843aefd0b7ce7a6d23e688300c82423d38a)

@@ -91,3 +91,4 @@
 - [磁盘 inode 统计源码 完整源码统计磁盘 inode 使用情况](https://github.com/opsrobertthompson/GmfmNB/commit/4545ed1537d92fbec5dd64b671008eb0c0420663)
 - [日志轮转状态检查脚本，检测日志切割异常告警](https://github.com/opsrobertthompson/GmfmNB/commit/30b26c2f94f1bf39a62777798e705e95ef08efbc)
 - [开箱即用表格处理开源脚本 完整源码搭配表格操作演示](https://github.com/opsrobertthompson/GmfmNB/commit/dd05c235d2692881bd9f3c17d3eb72ed8f18ab0d)
+- [AI数据集版权溯源，训练素材来源自动审计](https://github.com/opsrobertthompson/GmfmNB/commit/4162a512864a66379a3a52e70eb10d3b5f4865c5)

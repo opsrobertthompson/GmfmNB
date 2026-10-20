@@ -52,3 +52,4 @@
 - [基金半年报很漂亮，基民依旧赚不到钱](https://github.com/opsrobertthompson/GmfmNB/commit/c48e67fd15120fc9518bb660bd3c90f034cefd15)
 - [git标签注释导出工具，导出全部tag标签注释说明信息](https://github.com/opsrobertthompson/GmfmNB/commit/af7a25750aaa139b069a1d4993aa3389fd3bf892)
 - [乡村人才回流，怎样创造可以留住人才的产业土壤](https://github.com/opsrobertthompson/GmfmNB/commit/23ea846565a4a03a3b964ea5c8bca7019b85eca4)
+- [极简理性消费流行，年轻人拒绝过度消费](https://github.com/opsrobertthompson/GmfmNB/commit/d4711446a4b177d47e041e908ab11aa922662f1e)

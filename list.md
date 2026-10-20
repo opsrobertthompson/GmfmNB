@@ -139,3 +139,4 @@
 - [批量迁移脚本开源工程 完整源码实现数据迁移参考案例](https://github.com/opsrobertthompson/GmfmNB/commit/9ce990cf928b3a37f1ef06104d5bbfdedf6c3d2b)
 - [体外诊断行业国产替代提速IVD设备试剂抢占市场](https://github.com/opsrobertthompson/GmfmNB/commit/f9594222a1f8aedc061419392c96829a6c64ea57)
 - [模块化轻量开源源码分享 完整实现搭配快速集成样例](https://github.com/opsrobertthompson/GmfmNB/commit/81ea2e78fca0363c6f1c8b798d6f22f717d7ba1c)
+- [变更日志Changelog只罗列提交哈希，缺少可读描述](https://github.com/opsrobertthompson/GmfmNB/commit/1c37b473eeaa5d11890a96777e4f0839c6f98945)

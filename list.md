@@ -111,3 +111,4 @@
 - [markdown文档标签提取工具，提取文档标签元信息生成标签云](https://github.com/opsrobertthompson/GmfmNB/commit/2bbd2581d6802f0e9e4635c124f5cc2d5ce48124)
 - [内网主机资产扫描脚本，探测存活主机获取设备信息](https://github.com/opsrobertthompson/GmfmNB/commit/7455fee663712e14aa0ba889056a16d3a68ef837)
 - [失地农民养老保险办理条件土地被征收怎么参保](https://github.com/opsrobertthompson/GmfmNB/commit/4994c50cb14581d4d21a44f4636d2351adbed983)
+- [收缩城市公共资源如何优化配置](https://github.com/opsrobertthompson/GmfmNB/commit/bdcbb64b87bf96eb1a5c91ee12c2a5d83305a2fa)

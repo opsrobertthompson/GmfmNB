@@ -87,3 +87,4 @@
 - [开源工具文档补充版本兼容注意事项](https://github.com/opsrobertthompson/GmfmNB/commit/f61cf940636496f692e32f4617f8c7f43a40e65b)
 - [轻量可扩展开源工程仓库 源码资源含集成接入样例](https://github.com/opsrobertthompson/GmfmNB/commit/3041ce1a56feeba26aeccb91ae12eab2c9f445bb)
 - [工业机器人非结构化产线自主作业现实边界](https://github.com/opsrobertthompson/GmfmNB/commit/da6de3421d59444ca47ae24e0418e3aeb6393995)
+- [产业链配套完整度，决定一个地区制造业竞争实力](https://github.com/opsrobertthompson/GmfmNB/commit/a9b15169fd8d8a45b24e7e9771d42e8a947939ba)

@@ -120,3 +120,4 @@
 - [终端日志重定向工程 完整源码日志输出到终端与文件](https://github.com/opsrobertthompson/GmfmNB/commit/d51a05bf99b9932c70b93f95a1f62416c1b21e0f)
 - [商业地产受大环境影响，空置问题依然比较突出](https://github.com/opsrobertthompson/GmfmNB/commit/dd4fbdff105cd82cf2c5a6ae9e2a3b2764f66d75)
 - [县城房地产转型，告别土地财政之后怎么走](https://github.com/opsrobertthompson/GmfmNB/commit/afd27a501c425403bc08e159ee60f662348aa3d1)
+- [服务业的恢复速度，和居民消费信心高度绑定](https://github.com/opsrobertthompson/GmfmNB/commit/857c007252f377cd8471c408171897c83258d6c5)

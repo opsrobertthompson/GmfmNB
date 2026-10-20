@@ -22,3 +22,4 @@
 - [黄金被全网吹捧，追高进场就是接盘吗](https://github.com/opsrobertthompson/GmfmNB/commit/4d6091af9896e34455dece62a6aad5a4e4193890)
 - [手写哈希表工程 完整源码简易哈希存储增删改查](https://github.com/opsrobertthompson/GmfmNB/commit/f5287a284f805de9f45607d27e7b99ea46ba0f35)
 - [个人征信每年免费查询几次频繁查询征信有坏处](https://github.com/opsrobertthompson/GmfmNB/commit/85cade8b29b86ed3a2bdfe94812fab60a38d7929)
+- [机构扎堆调研个股，不等于股价马上会大涨](https://github.com/opsrobertthompson/GmfmNB/commit/afca472d4d52dd04ed0f315dfaff7eac0bbe9959)

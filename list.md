@@ -129,3 +129,4 @@
 - [开源技术文档把报错堆栈做解读而不是直接粘贴](https://github.com/opsrobertthompson/GmfmNB/commit/75175791c1a4aad8837edcded2146ac78632b725)
 - [就业质量，比单纯的就业数量更加值得关注](https://github.com/opsrobertthompson/GmfmNB/commit/8355a1905416e9fc979c848c05af044f125bcac2)
 - [个人开源项目，企业提交PR之后维护权争夺](https://github.com/opsrobertthompson/GmfmNB/commit/a501c00dc7dc57e40a686b44457bd98beeb54239)
+- [叠层钙钛矿中试加速下一代光伏距离量产还有多久](https://github.com/opsrobertthompson/GmfmNB/commit/d324813c9db3fb63221a357fb9734cddab6c0346)

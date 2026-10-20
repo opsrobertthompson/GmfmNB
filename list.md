@@ -134,3 +134,4 @@
 - [数据库自动化实战源码集合 完整实现代码与数据库报错排查](https://github.com/opsrobertthompson/GmfmNB/commit/94264335d65f1e20790b701c8cc826101f4228f9)
 - [手机号邮箱批量校验脚本，格式过滤去重清洗测试数据集](https://github.com/opsrobertthompson/GmfmNB/commit/b67340209ded2ab9a461200dae12f0ab6cb76bd8)
 - [csv批量拆分大csv按行数，将大csv按指定行数切分小文件](https://github.com/opsrobertthompson/GmfmNB/commit/a181ea7f7bf77ecd985eb75d0e9d070642d6bd02)
+- [人形机器人故障样本数据集构建难点](https://github.com/opsrobertthompson/GmfmNB/commit/9a28480b1bdaf0ea30484816b1bd2fcf451fa8c3)

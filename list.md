@@ -18,3 +18,4 @@
 - [模块化缓存开源项目 快速上手配置与模拟请求样例](https://github.com/opsrobertthompson/GmfmNB/commit/05370f53731beb861a1637d2e7e9165884a620ed)
 - [彩礼持续治理，农村婚嫁观念转变进程](https://github.com/opsrobertthompson/GmfmNB/commit/90713b898c5776626415769af39085cba80204f9)
 - [如何破解企业账款拖欠，改善中小微企业现金流状况](https://github.com/opsrobertthompson/GmfmNB/commit/e46c204904c370e22b144405f049a09023d2a73e)
+- [享元模式开源工程 完整源码对象池复用减少内存占用](https://github.com/opsrobertthompson/GmfmNB/commit/1be28ee0e623148ecc39fa91e28762feff5adea7)

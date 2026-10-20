@@ -45,3 +45,4 @@
 - [租购同权逐步落地租房能享受同等公共服务吗](https://github.com/opsrobertthompson/GmfmNB/commit/5d4abc22b1fa338f9c85f0d0e729fc05d8ed8956)
 - [铜价中长期走势深度研判，工业金属跟随宏观周期起起伏伏](https://github.com/opsrobertthompson/GmfmNB/commit/d64eece08c2522c99fb5ed12f64a00ff286373be)
 - [维修复用业态兴起告别一次性消费时代](https://github.com/opsrobertthompson/GmfmNB/commit/72bfd2f5b7c539a90d9388e7f075e869ede29857)
+- [npm包typo‑squatting，拼写近似恶意包投毒](https://github.com/opsrobertthompson/GmfmNB/commit/9f5cba507a10ff9a07a37a2f246a5a4c307f467a)

@@ -75,3 +75,4 @@
 - [数字贸易高速增长数字产品数字服务成为外贸新引擎](https://github.com/opsrobertthompson/GmfmNB/commit/ae2b5f917bd451e8ca712b82cdca174a3e7aabcf)
 - [简易动态DNS开源服务，家庭公网IP变动自动更新域名](https://github.com/opsrobertthompson/GmfmNB/commit/4f15bc606385f137d4b80b49fc4773dee3777c72)
 - [项目捐赠基金会，个人维护者丧失项目控制权](https://github.com/opsrobertthompson/GmfmNB/commit/ebea3ebcdd8b311c65115dcf9a88779d62639d32)
+- [城市口袋公园建设，居民身边公共空间升级](https://github.com/opsrobertthompson/GmfmNB/commit/04ab2d1ef06209b6fca01996d95fcd8fd1f32549)

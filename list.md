@@ -35,3 +35,4 @@
 - [MoE混合专家模型工程化，负载不均衡调度问题](https://github.com/opsrobertthompson/GmfmNB/commit/40ef51498daa631cedcf8b494446f95b51eb1bf0)
 - [ass字幕特效批量移除，清除ass全部特效保留基础字幕](https://github.com/opsrobertthompson/GmfmNB/commit/1e08f6aef5b29544528fab94e1a0a742602e34c8)
 - [AI时代软件工程师能力转型，核心能力变迁](https://github.com/opsrobertthompson/GmfmNB/commit/439c193fb3450a5441ef4c35f37221cb12c3fca0)
+- [AI数据集脱敏与水印，防止训练集信息泄露](https://github.com/opsrobertthompson/GmfmNB/commit/e7663ea4fd51acc75afb85a2d260ac5bfcdbe2f2)

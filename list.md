@@ -170,3 +170,4 @@
 - [HTTP请求录制重放工具，抓包保存请求用于接口回归测试](https://github.com/opsrobertthompson/GmfmNB/commit/9a4965edffef91d0ce0e2998a6739f982be499ff)
 - [算力赛道疯狂扩产，产能过剩隐患持续加大](https://github.com/opsrobertthompson/GmfmNB/commit/9d2bc4ccb376233fb5d1058beb76624f39ddb62a)
 - [存款利率持续探底，老百姓依旧疯狂存钱](https://github.com/opsrobertthompson/GmfmNB/commit/d9f77afc5a62d2ddcf43711af5148dbfbacf60a1)
+- [UI 轻量开源组件 开源源码搭配页面快速接入教程](https://github.com/opsrobertthompson/GmfmNB/commit/2f47b017bbdecb43a864316dceafb0d513b1a57f)

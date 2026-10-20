@@ -155,3 +155,4 @@
 - [二套房认定标准调整置换家庭贷款成本变化](https://github.com/opsrobertthompson/GmfmNB/commit/1f0f4234ad2f081fbdb12c9dd705f982dc875ea0)
 - [自动续费新规落地怎么关闭各类APP自动扣费服务](https://github.com/opsrobertthompson/GmfmNB/commit/6a4095117bc999480735ef416ee5b3cb7aa44270)
 - [稀土永磁需求爆发新能源风电拉动稀土下游需求](https://github.com/opsrobertthompson/GmfmNB/commit/5d753a7165ca514d4939a43d17282f31ae199f28)
+- [GitHub Fork提交与上游比对检测工具](https://github.com/opsrobertthompson/GmfmNB/commit/c4a1c77023512daa7d5b33f12bb2f779a844ac8f)

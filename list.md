@@ -41,3 +41,4 @@
 - [农村留守妇女就业增收现实路径](https://github.com/opsrobertthompson/GmfmNB/commit/37c5221e060ac9558ed422efbc774cfb6e88786a)
 - [日志多输出源开源工程 完整源码日志输出文件控制台网络](https://github.com/opsrobertthompson/GmfmNB/commit/da39c552f4d72e66ff7316297f795255d647d288)
 - [静态文档清理废弃代码片段增强可读性](https://github.com/opsrobertthompson/GmfmNB/commit/295217e6e253980544b35459f46ff54e79815e85)
+- [户用储能走进家庭，普通家庭安装成本收益](https://github.com/opsrobertthompson/GmfmNB/commit/2be9c661ddff99ffde20318ee70b6b0f7c1582fc)

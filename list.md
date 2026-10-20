@@ -137,3 +137,4 @@
 - [人形机器人故障样本数据集构建难点](https://github.com/opsrobertthompson/GmfmNB/commit/9a28480b1bdaf0ea30484816b1bd2fcf451fa8c3)
 - [农民工市民化推进，落户住房教育配套补齐](https://github.com/opsrobertthompson/GmfmNB/commit/cac35d848add2475332c48dd0b4a2c9cfc09be50)
 - [批量迁移脚本开源工程 完整源码实现数据迁移参考案例](https://github.com/opsrobertthompson/GmfmNB/commit/9ce990cf928b3a37f1ef06104d5bbfdedf6c3d2b)
+- [体外诊断行业国产替代提速IVD设备试剂抢占市场](https://github.com/opsrobertthompson/GmfmNB/commit/f9594222a1f8aedc061419392c96829a6c64ea57)

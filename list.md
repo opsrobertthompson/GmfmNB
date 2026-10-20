@@ -50,3 +50,4 @@
 - [数字服务贸易增长软件云服务成为外贸新增长极](https://github.com/opsrobertthompson/GmfmNB/commit/af0add06150da409a42edecb9890c8ddb42817e0)
 - [AI辅助新药分子发现，从仿真到临床试验鸿沟](https://github.com/opsrobertthompson/GmfmNB/commit/b67dfc20fcdc9b189acdcf2d142412f9ff931abf)
 - [基金半年报很漂亮，基民依旧赚不到钱](https://github.com/opsrobertthompson/GmfmNB/commit/c48e67fd15120fc9518bb660bd3c90f034cefd15)
+- [git标签注释导出工具，导出全部tag标签注释说明信息](https://github.com/opsrobertthompson/GmfmNB/commit/af7a25750aaa139b069a1d4993aa3389fd3bf892)

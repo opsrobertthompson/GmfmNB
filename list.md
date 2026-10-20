@@ -62,3 +62,4 @@
 - [AI工业智能体大规模落地，制造业岗位结构重构](https://github.com/opsrobertthompson/GmfmNB/commit/603835547c5e3bf5eb38ef1a14b4072f0aea385f)
 - [git am补丁批量导入脚本，批量导入patch处理换行兼容问题](https://github.com/opsrobertthompson/GmfmNB/commit/d1071449e40898f8d41baa5bc5357936df4f4f8e)
 - [操作系统信号捕获工程 完整源码捕获终止信号优雅退出](https://github.com/opsrobertthompson/GmfmNB/commit/4f2eaa3f6412c803c352c6b37c6fbb74053467bd)
+- [普通家庭保险配置顺序先买什么保险后买什么保险](https://github.com/opsrobertthompson/GmfmNB/commit/2f4e4daf005a5ca1ae467cdfc1a86a3c84355378)

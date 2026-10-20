@@ -66,3 +66,4 @@
 - [地方财政压力，会影响基建与公共服务投入](https://github.com/opsrobertthompson/GmfmNB/commit/855d9cd0d2903024ed36f977fd332a8cb0f3c830)
 - [县域城镇化提质，县城公共服务短板补齐](https://github.com/opsrobertthompson/GmfmNB/commit/361a66121af6916111990549242455acf2f033c1)
 - [一刻钟便民生活圈迭代，社区商业业态更新](https://github.com/opsrobertthompson/GmfmNB/commit/0683317e1f861b9a9022fc4d55d4b855acc14e5d)
+- [AI红队自动化工具，批量生成对抗测试用例](https://github.com/opsrobertthompson/GmfmNB/commit/9521b19ff18b611053acab9ca10b9e748b79d001)

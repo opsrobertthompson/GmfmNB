@@ -116,3 +116,4 @@
 - [开源模型微调数据集，私有业务数据泄露隐患](https://github.com/opsrobertthompson/GmfmNB/commit/d982139a2b9ba6d1dc12a2324bdc86cb563ad9da)
 - [农村集体资产盘活沉睡乡村资源转化为集体经济收入](https://github.com/opsrobertthompson/GmfmNB/commit/3e2e7ba67679384c2864b9deb62e08fc31415495)
 - [json递归value批量替换，递归遍历json替换匹配的字段值](https://github.com/opsrobertthompson/GmfmNB/commit/953bb7ca7ff70f6f490509610d4901abb74c8089)
+- [开箱即用开源工具 完整源码搭配实操演示案例](https://github.com/opsrobertthompson/GmfmNB/commit/4c3aa00ff5a2284cd8ea156f908a251aa5b6ce01)

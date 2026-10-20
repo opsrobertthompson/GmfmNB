@@ -13,3 +13,4 @@
 - [高质量 GitHub 业务开源项目 可复用业务源码与配置实操](https://github.com/opsrobertthompson/GmfmNB/commit/d73eb933eeb93a4c8703978b75970335ed2d660d)
 - [GitHub仓库Milestone跨仓库迁移脚本](https://github.com/opsrobertthompson/GmfmNB/commit/91d14005d4699b5c1a5668050b41183c10e920f3)
 - [家庭应急储备金该留多少普通家庭财务安全规划](https://github.com/opsrobertthompson/GmfmNB/commit/95c4246a9140b7be2cef424e90bdfd9bc344e3f8)
+- [GitHub 开源组件仓库 完整源码以及集成配置教程](https://github.com/opsrobertthompson/GmfmNB/commit/576ec4b25c214b7371d5dabf8c9385560ced92e5)

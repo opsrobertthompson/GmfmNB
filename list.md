@@ -68,3 +68,4 @@
 - [一刻钟便民生活圈迭代，社区商业业态更新](https://github.com/opsrobertthompson/GmfmNB/commit/0683317e1f861b9a9022fc4d55d4b855acc14e5d)
 - [AI红队自动化工具，批量生成对抗测试用例](https://github.com/opsrobertthompson/GmfmNB/commit/9521b19ff18b611053acab9ca10b9e748b79d001)
 - [视频RAG关键帧智能采样，避免关键片段漏检](https://github.com/opsrobertthompson/GmfmNB/commit/246a936edca769c6854500eee75c3a5c42665f61)
+- [开源轻量业务解决方案 完整源码附从零搭建实操样例](https://github.com/opsrobertthompson/GmfmNB/commit/326e37e4ab277369c4257e89204a3f0c49a7ec60)

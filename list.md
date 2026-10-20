@@ -95,3 +95,4 @@
 - [全球货币格局多元化演变去美元化进程带来资产新变化](https://github.com/opsrobertthompson/GmfmNB/commit/c7d0e2c4576aeb380f757b60c5c2e236d440f981)
 - [APP权限过度索取整治实际效果](https://github.com/opsrobertthompson/GmfmNB/commit/ce4c9ec904a7dbed56bfe49c2e00e4c5ba17cb4a)
 - [AI业务责任界定，模型出错企业与开发者权责划分](https://github.com/opsrobertthompson/GmfmNB/commit/4b71b841fa25cf3cf06684bf6399694ca592e318)
+- [海外需求波动倒逼企业深耕国内本土市场](https://github.com/opsrobertthompson/GmfmNB/commit/95f0c897925b764f8052eca8440b5fd981ad0b54)

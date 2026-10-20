@@ -56,3 +56,4 @@
 - [内存侧数据泄露，推理服务内存窃取攻击防护](https://github.com/opsrobertthompson/GmfmNB/commit/64d68bb79b5bf0d5e605d56ba5bb4405544747fd)
 - [银行理财不保本，很多人还以为零风险](https://github.com/opsrobertthompson/GmfmNB/commit/aab7ee828182af5b3f88d736186536eef4ffd9b7)
 - [嵌入式Lite向量库移动端多端同步一致性问题](https://github.com/opsrobertthompson/GmfmNB/commit/73ad565a4438fce7841c01b6b78903bd52643aef)
+- [OAuth2 授权流程模拟源码 完整源码模拟授权登录交互](https://github.com/opsrobertthompson/GmfmNB/commit/f9dc789f4dfae1d056257f349086a3b727dad473)

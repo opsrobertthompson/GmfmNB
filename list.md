@@ -100,3 +100,4 @@
 - [超大 JSON 流式解析工程 完整源码大 json 边读边解析](https://github.com/opsrobertthompson/GmfmNB/commit/12b98c046a923fd9754ac15a2f21804c3dba130f)
 - [选的全是稳健产品，为什么还是亏了本金](https://github.com/opsrobertthompson/GmfmNB/commit/5584819b5c3383d8e3c993782e647b2ae4180a13)
 - [全栈开源源码资源分享 源码资源配套多环境适配排错手册](https://github.com/opsrobertthompson/GmfmNB/commit/02b4d60f5bea961502981305d9e854051cc3951b)
+- [github仓库README元信息批量导出，导出readme标题简介第一张图片](https://github.com/opsrobertthompson/GmfmNB/commit/43166b8ec2784e8bf117f7161b4bb6b7f390ca00)

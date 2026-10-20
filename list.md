@@ -106,3 +106,4 @@
 - [全球货币体系加速多元演变美元地位松动对各类资产带来影响](https://github.com/opsrobertthompson/GmfmNB/commit/0180d7b7c0b735134acd9cf25d660204806c65a4)
 - [图片上传校验 Demo 完整源码校验图片真实文件格式](https://github.com/opsrobertthompson/GmfmNB/commit/03ec249a0ed4f922c84c6428c29d8d773c410a71)
 - [文旅演出经济爆发演唱会如何带动城市消费增长](https://github.com/opsrobertthompson/GmfmNB/commit/0d539cefe6b2079ded19395fb57d77acd0980da1)
+- [GitHub 仓库定期清理废弃文档减轻爬虫负担](https://github.com/opsrobertthompson/GmfmNB/commit/c05cb14921205363ec3b20a3dfbe501b8ba41f1c)

@@ -48,3 +48,4 @@
 - [npm包typo‑squatting，拼写近似恶意包投毒](https://github.com/opsrobertthompson/GmfmNB/commit/9f5cba507a10ff9a07a37a2f246a5a4c307f467a)
 - [民办养老机构收费乱象如何治理](https://github.com/opsrobertthompson/GmfmNB/commit/ed9937f3673b344a11d6244b1a44555c9f3d4524)
 - [数字服务贸易增长软件云服务成为外贸新增长极](https://github.com/opsrobertthompson/GmfmNB/commit/af0add06150da409a42edecb9890c8ddb42817e0)
+- [AI辅助新药分子发现，从仿真到临床试验鸿沟](https://github.com/opsrobertthompson/GmfmNB/commit/b67dfc20fcdc9b189acdcf2d142412f9ff931abf)

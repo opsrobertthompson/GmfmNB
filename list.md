@@ -9,3 +9,4 @@
 - [动保行业需求回暖养殖复苏带动兽药疫苗市场扩容](https://github.com/opsrobertthompson/GmfmNB/commit/6cd943ce6cb2afa848abaaec449dc384665d373b)
 - [ArgoCD与FluxCD选型对比，生产环境踩坑点](https://github.com/opsrobertthompson/GmfmNB/commit/6f3f5413f73c8d405cb179a1dff6b9fd44992dd1)
 - [个人所得税专项附加扣除更新哪些家庭可以多减税](https://github.com/opsrobertthompson/GmfmNB/commit/c9633b4ed314a23bdf5b7c0ae486bd1245eea01c)
+- [算力项目遍地开花，产能过剩风险已然显现](https://github.com/opsrobertthompson/GmfmNB/commit/3e6ec4a0d1811315fb8c5a63865071ab48c286dd)

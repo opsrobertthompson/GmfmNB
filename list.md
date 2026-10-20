@@ -181,3 +181,4 @@
 - [栈与队列完整手写 Demo 完整源码基础数据结构增删改查](https://github.com/opsrobertthompson/GmfmNB/commit/4fa596f0f3f1d9e1d38c46822283ebcae953ebd8)
 - [轻医美行业强监管，普通消费者避坑要点](https://github.com/opsrobertthompson/GmfmNB/commit/e40ed68bf81a9c60be59f9c126ba161ce1b039bc)
 - [小型图书馆馆藏管理，借阅归还预约统计报表开源实现](https://github.com/opsrobertthompson/GmfmNB/commit/c6c15555e13c2fe884a3bd2117174c9665ac2389)
+- [SSM状态空间模型与Transformer混合基座工程落地瓶颈](https://github.com/opsrobertthompson/GmfmNB/commit/00283c4bd00db2a2243619c789586f09006729e9)

@@ -196,3 +196,4 @@
 - [城市流浪动物治理，人与动物共存解决方案](https://github.com/opsrobertthompson/GmfmNB/commit/e663491a5243f07a7eec1e42bb8d6e3978487f93)
 - [本地快速 Mock 接口开源仓库 完整源码一键模拟后端返回数据](https://github.com/opsrobertthompson/GmfmNB/commit/9c0a047b38002a90a440086bc41a6433d160dfed)
 - [经济转型期新旧产业此消彼长属于常态](https://github.com/opsrobertthompson/GmfmNB/commit/92fde23df6a2073621adfc4a761cd3b310ba9407)
+- [产业政策不能一刀切，要区分不同企业的实际处境](https://github.com/opsrobertthompson/GmfmNB/commit/28c421b2f6c24791f966c9c1e18451ce94c75956)

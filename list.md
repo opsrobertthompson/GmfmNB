@@ -55,3 +55,4 @@
 - [极简理性消费流行，年轻人拒绝过度消费](https://github.com/opsrobertthompson/GmfmNB/commit/d4711446a4b177d47e041e908ab11aa922662f1e)
 - [内存侧数据泄露，推理服务内存窃取攻击防护](https://github.com/opsrobertthompson/GmfmNB/commit/64d68bb79b5bf0d5e605d56ba5bb4405544747fd)
 - [银行理财不保本，很多人还以为零风险](https://github.com/opsrobertthompson/GmfmNB/commit/aab7ee828182af5b3f88d736186536eef4ffd9b7)
+- [嵌入式Lite向量库移动端多端同步一致性问题](https://github.com/opsrobertthompson/GmfmNB/commit/73ad565a4438fce7841c01b6b78903bd52643aef)

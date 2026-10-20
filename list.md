@@ -118,3 +118,4 @@
 - [json递归value批量替换，递归遍历json替换匹配的字段值](https://github.com/opsrobertthompson/GmfmNB/commit/953bb7ca7ff70f6f490509610d4901abb74c8089)
 - [开箱即用开源工具 完整源码搭配实操演示案例](https://github.com/opsrobertthompson/GmfmNB/commit/4c3aa00ff5a2284cd8ea156f908a251aa5b6ce01)
 - [终端日志重定向工程 完整源码日志输出到终端与文件](https://github.com/opsrobertthompson/GmfmNB/commit/d51a05bf99b9932c70b93f95a1f62416c1b21e0f)
+- [商业地产受大环境影响，空置问题依然比较突出](https://github.com/opsrobertthompson/GmfmNB/commit/dd4fbdff105cd82cf2c5a6ae9e2a3b2764f66d75)

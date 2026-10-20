@@ -37,3 +37,4 @@
 - [AI时代软件工程师能力转型，核心能力变迁](https://github.com/opsrobertthompson/GmfmNB/commit/439c193fb3450a5441ef4c35f37221cb12c3fca0)
 - [AI数据集脱敏与水印，防止训练集信息泄露](https://github.com/opsrobertthompson/GmfmNB/commit/e7663ea4fd51acc75afb85a2d260ac5bfcdbe2f2)
 - [全力刺激居民消费，居民储蓄意愿反而攀升](https://github.com/opsrobertthompson/GmfmNB/commit/28530826c800112190e89b157c0046cb969cc200)
+- [AOP 环绕前置后置拦截源码 完整源码方法增强逻辑](https://github.com/opsrobertthompson/GmfmNB/commit/8a6ea8b14d98bca2282810b8028e374f932339ef)

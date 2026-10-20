@@ -103,3 +103,4 @@
 - [github仓库README元信息批量导出，导出readme标题简介第一张图片](https://github.com/opsrobertthompson/GmfmNB/commit/43166b8ec2784e8bf117f7161b4bb6b7f390ca00)
 - [密钥泄露常态化，git密钥扫描防不住新泄露方式](https://github.com/opsrobertthompson/GmfmNB/commit/ab956fb27c61f9a680b5a79df867ceaa43e9c776)
 - [不动产跨省查询，家庭房产信息保护平衡](https://github.com/opsrobertthompson/GmfmNB/commit/eef43f76a5fcfbd1ac280de11af27ebc59e1c1f5)
+- [全球货币体系加速多元演变美元地位松动对各类资产带来影响](https://github.com/opsrobertthompson/GmfmNB/commit/0180d7b7c0b735134acd9cf25d660204806c65a4)

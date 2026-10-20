@@ -168,3 +168,4 @@
 - [GitHub 开源文档页面 title 包含页面核心主题](https://github.com/opsrobertthompson/GmfmNB/commit/8c460e670795d5e96c7b4c9b07312e702f018b8a)
 - [Docker Compose生产可行性，中小团队取舍](https://github.com/opsrobertthompson/GmfmNB/commit/6ced1ea647b8085a1afbb764ceeeb8fd661cc291)
 - [HTTP请求录制重放工具，抓包保存请求用于接口回归测试](https://github.com/opsrobertthompson/GmfmNB/commit/9a4965edffef91d0ce0e2998a6739f982be499ff)
+- [算力赛道疯狂扩产，产能过剩隐患持续加大](https://github.com/opsrobertthompson/GmfmNB/commit/9d2bc4ccb376233fb5d1058beb76624f39ddb62a)

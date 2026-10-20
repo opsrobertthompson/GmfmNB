@@ -7,3 +7,4 @@
 - [实体经济利润变薄，会直接影响薪资上涨空间](https://github.com/opsrobertthompson/GmfmNB/commit/34e7af9916f55739a20db03ad16260c699dbc964)
 - [通用业务场景开源项目资源 完整源码搭配本地环境排错手册](https://github.com/opsrobertthompson/GmfmNB/commit/2193417edb7e77a6e0ba86dec1f20434b2f21583)
 - [动保行业需求回暖养殖复苏带动兽药疫苗市场扩容](https://github.com/opsrobertthompson/GmfmNB/commit/6cd943ce6cb2afa848abaaec449dc384665d373b)
+- [ArgoCD与FluxCD选型对比，生产环境踩坑点](https://github.com/opsrobertthompson/GmfmNB/commit/6f3f5413f73c8d405cb179a1dff6b9fd44992dd1)

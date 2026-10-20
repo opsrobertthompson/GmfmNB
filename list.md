@@ -182,3 +182,4 @@
 - [轻医美行业强监管，普通消费者避坑要点](https://github.com/opsrobertthompson/GmfmNB/commit/e40ed68bf81a9c60be59f9c126ba161ce1b039bc)
 - [小型图书馆馆藏管理，借阅归还预约统计报表开源实现](https://github.com/opsrobertthompson/GmfmNB/commit/c6c15555e13c2fe884a3bd2117174c9665ac2389)
 - [SSM状态空间模型与Transformer混合基座工程落地瓶颈](https://github.com/opsrobertthompson/GmfmNB/commit/00283c4bd00db2a2243619c789586f09006729e9)
+- [熔断状态机源码 完整源码熔断半开关闭状态流转](https://github.com/opsrobertthompson/GmfmNB/commit/58aa135b825b7739244ad871ae4d36a2e4d44567)

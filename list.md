@@ -65,3 +65,4 @@
 - [普通家庭保险配置顺序先买什么保险后买什么保险](https://github.com/opsrobertthompson/GmfmNB/commit/2f4e4daf005a5ca1ae467cdfc1a86a3c84355378)
 - [地方财政压力，会影响基建与公共服务投入](https://github.com/opsrobertthompson/GmfmNB/commit/855d9cd0d2903024ed36f977fd332a8cb0f3c830)
 - [县域城镇化提质，县城公共服务短板补齐](https://github.com/opsrobertthompson/GmfmNB/commit/361a66121af6916111990549242455acf2f033c1)
+- [一刻钟便民生活圈迭代，社区商业业态更新](https://github.com/opsrobertthompson/GmfmNB/commit/0683317e1f861b9a9022fc4d55d4b855acc14e5d)

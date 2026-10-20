@@ -186,3 +186,4 @@
 - [大宗商品套保监管加强实体企业衍生品交易规范](https://github.com/opsrobertthompson/GmfmNB/commit/5bc2847fd9232f5bdacf6a1c74a809295209c7aa)
 - [jwt nbf生效时间批量解析，批量解析jwt生效时间戳](https://github.com/opsrobertthompson/GmfmNB/commit/1adb512f0d9c4fbfa13f27100dc83e8c81c88260)
 - [人人向往资产增值，多数普通人守不住本金](https://github.com/opsrobertthompson/GmfmNB/commit/367798fdb0a4bfa1a7a39c616aeb7245622648a1)
+- [简易 sql 解析 Demo 完整源码解析 select insert 语句结构](https://github.com/opsrobertthompson/GmfmNB/commit/3ac3445d21cdb97ece436c696cda61a31ba12e92)

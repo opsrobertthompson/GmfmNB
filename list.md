@@ -150,3 +150,4 @@
 - [小区地面停车收费，物业私自涨价业主如何维权](https://github.com/opsrobertthompson/GmfmNB/commit/f04e268305ad9f7f1f8ce6bc092bdd2c24063970)
 - [PDF页面批量裁剪脚本，调整页面尺寸边距](https://github.com/opsrobertthompson/GmfmNB/commit/bcee5ddd34ba733be93ccf94ca8ecf1be82bb0dd)
 - [消费税一旦调整，最终成本由民众承担](https://github.com/opsrobertthompson/GmfmNB/commit/3c761f64558bd32bb08390c6ce7ac50f13673399)
+- [开源密码管理器，加密算法未经过第三方安全审计](https://github.com/opsrobertthompson/GmfmNB/commit/af83c3be0b375cd374bce1cebf36bbeeddb13922)

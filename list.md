@@ -25,3 +25,4 @@
 - [机构扎堆调研个股，不等于股价马上会大涨](https://github.com/opsrobertthompson/GmfmNB/commit/afca472d4d52dd04ed0f315dfaff7eac0bbe9959)
 - [git未合并分支检测工具，识别长期未合并本地分支清单](https://github.com/opsrobertthompson/GmfmNB/commit/7f517c8502d237a5fbdf81250034dbc0b4928793)
 - [系统进程监控告警脚本，检测进程异常退出自动告警](https://github.com/opsrobertthompson/GmfmNB/commit/91f712742b82f6e0d52faeb9ea8c0a5a4bf8e311)
+- [k8s pod亲和性规则导出，导出pod节点亲和性配置信息](https://github.com/opsrobertthompson/GmfmNB/commit/6243160b1f26178051e549389f2feaad9b0c5292)

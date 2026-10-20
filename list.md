@@ -147,3 +147,4 @@
 - [机构扎堆调研个股，不代表股价马上会暴涨](https://github.com/opsrobertthompson/GmfmNB/commit/852d72fcf6dba5810c46998884e8dd508ddd40fe)
 - [券商股票期权业务扩容机构对冲工具进一步完善](https://github.com/opsrobertthompson/GmfmNB/commit/0f1a2b0259f78f778070d2df471126a0fa408f20)
 - [存量房贷利率动态调整亿万购房者实际减负效果观察](https://github.com/opsrobertthompson/GmfmNB/commit/a33efe40888f79c07314e06a1aea8f480bea583d)
+- [小区地面停车收费，物业私自涨价业主如何维权](https://github.com/opsrobertthompson/GmfmNB/commit/f04e268305ad9f7f1f8ce6bc092bdd2c24063970)

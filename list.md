@@ -80,3 +80,4 @@
 - [社区Fork分裂，两个版本互相不合并补丁](https://github.com/opsrobertthompson/GmfmNB/commit/3a1faf9c7f5f52315a8a7eec98936364049ae60a)
 - [轻量表格解析开源代码库 二次开发指南与读写转换完整样例](https://github.com/opsrobertthompson/GmfmNB/commit/736ba5768784d12fc85e3fcd28009210182cdfc2)
 - [cron 表达式解析校验开源工程 完整源码校验解析定时表达式](https://github.com/opsrobertthompson/GmfmNB/commit/ff20069b3e60143b0ca73f71e1704dcc7e322124)
+- [海工装备订单增长海洋油气开发带动海工产业景气](https://github.com/opsrobertthompson/GmfmNB/commit/c67b1786aa0a73febdd882bb6e25875e838ad1e7)

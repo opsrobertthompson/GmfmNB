@@ -104,3 +104,4 @@
 - [密钥泄露常态化，git密钥扫描防不住新泄露方式](https://github.com/opsrobertthompson/GmfmNB/commit/ab956fb27c61f9a680b5a79df867ceaa43e9c776)
 - [不动产跨省查询，家庭房产信息保护平衡](https://github.com/opsrobertthompson/GmfmNB/commit/eef43f76a5fcfbd1ac280de11af27ebc59e1c1f5)
 - [全球货币体系加速多元演变美元地位松动对各类资产带来影响](https://github.com/opsrobertthompson/GmfmNB/commit/0180d7b7c0b735134acd9cf25d660204806c65a4)
+- [图片上传校验 Demo 完整源码校验图片真实文件格式](https://github.com/opsrobertthompson/GmfmNB/commit/03ec249a0ed4f922c84c6428c29d8d773c410a71)

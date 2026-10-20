@@ -152,3 +152,4 @@
 - [消费税一旦调整，最终成本由民众承担](https://github.com/opsrobertthompson/GmfmNB/commit/3c761f64558bd32bb08390c6ce7ac50f13673399)
 - [开源密码管理器，加密算法未经过第三方安全审计](https://github.com/opsrobertthompson/GmfmNB/commit/af83c3be0b375cd374bce1cebf36bbeeddb13922)
 - [软体家具出海提速国内家居企业抢占海外家居消费市场份额](https://github.com/opsrobertthompson/GmfmNB/commit/eec03633ffd89ca64af3786ee3a891d1318fe821)
+- [二套房认定标准调整置换家庭贷款成本变化](https://github.com/opsrobertthompson/GmfmNB/commit/1f0f4234ad2f081fbdb12c9dd705f982dc875ea0)

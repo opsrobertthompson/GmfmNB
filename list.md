@@ -149,3 +149,4 @@
 - [存量房贷利率动态调整亿万购房者实际减负效果观察](https://github.com/opsrobertthompson/GmfmNB/commit/a33efe40888f79c07314e06a1aea8f480bea583d)
 - [小区地面停车收费，物业私自涨价业主如何维权](https://github.com/opsrobertthompson/GmfmNB/commit/f04e268305ad9f7f1f8ce6bc092bdd2c24063970)
 - [PDF页面批量裁剪脚本，调整页面尺寸边距](https://github.com/opsrobertthompson/GmfmNB/commit/bcee5ddd34ba733be93ccf94ca8ecf1be82bb0dd)
+- [消费税一旦调整，最终成本由民众承担](https://github.com/opsrobertthompson/GmfmNB/commit/3c761f64558bd32bb08390c6ce7ac50f13673399)

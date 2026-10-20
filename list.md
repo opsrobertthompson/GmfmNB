@@ -127,3 +127,4 @@
 - [pdf批量页面镜像翻转，批量水平镜像pdf全部页面](https://github.com/opsrobertthompson/GmfmNB/commit/04709595d3ba15ec6d0c1c10d1165c6501686f53)
 - [睡眠消费市场爆发如何甄别助眠产品陷阱](https://github.com/opsrobertthompson/GmfmNB/commit/dc7e6beb8796661e86469aab89001e397f0679fa)
 - [开源技术文档把报错堆栈做解读而不是直接粘贴](https://github.com/opsrobertthompson/GmfmNB/commit/75175791c1a4aad8837edcded2146ac78632b725)
+- [就业质量，比单纯的就业数量更加值得关注](https://github.com/opsrobertthompson/GmfmNB/commit/8355a1905416e9fc979c848c05af044f125bcac2)

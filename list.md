@@ -79,3 +79,4 @@
 - [南向资金最新持仓变化解析，内地资金布局港股偏好曝光](https://github.com/opsrobertthompson/GmfmNB/commit/30870940af4a8feb94f3cc802bbceb5ce4c83e73)
 - [社区Fork分裂，两个版本互相不合并补丁](https://github.com/opsrobertthompson/GmfmNB/commit/3a1faf9c7f5f52315a8a7eec98936364049ae60a)
 - [轻量表格解析开源代码库 二次开发指南与读写转换完整样例](https://github.com/opsrobertthompson/GmfmNB/commit/736ba5768784d12fc85e3fcd28009210182cdfc2)
+- [cron 表达式解析校验开源工程 完整源码校验解析定时表达式](https://github.com/opsrobertthompson/GmfmNB/commit/ff20069b3e60143b0ca73f71e1704dcc7e322124)

@@ -195,3 +195,4 @@
 - [智慧农机租赁模式，降低小农户购机门槛](https://github.com/opsrobertthompson/GmfmNB/commit/eff513b6c9cf7a223ce432e0587a26efbe55dee8)
 - [城市流浪动物治理，人与动物共存解决方案](https://github.com/opsrobertthompson/GmfmNB/commit/e663491a5243f07a7eec1e42bb8d6e3978487f93)
 - [本地快速 Mock 接口开源仓库 完整源码一键模拟后端返回数据](https://github.com/opsrobertthompson/GmfmNB/commit/9c0a047b38002a90a440086bc41a6433d160dfed)
+- [经济转型期新旧产业此消彼长属于常态](https://github.com/opsrobertthompson/GmfmNB/commit/92fde23df6a2073621adfc4a761cd3b310ba9407)

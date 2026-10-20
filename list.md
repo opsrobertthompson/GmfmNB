@@ -76,3 +76,4 @@
 - [简易动态DNS开源服务，家庭公网IP变动自动更新域名](https://github.com/opsrobertthompson/GmfmNB/commit/4f15bc606385f137d4b80b49fc4773dee3777c72)
 - [项目捐赠基金会，个人维护者丧失项目控制权](https://github.com/opsrobertthompson/GmfmNB/commit/ebea3ebcdd8b311c65115dcf9a88779d62639d32)
 - [城市口袋公园建设，居民身边公共空间升级](https://github.com/opsrobertthompson/GmfmNB/commit/04ab2d1ef06209b6fca01996d95fcd8fd1f32549)
+- [南向资金最新持仓变化解析，内地资金布局港股偏好曝光](https://github.com/opsrobertthompson/GmfmNB/commit/30870940af4a8feb94f3cc802bbceb5ce4c83e73)

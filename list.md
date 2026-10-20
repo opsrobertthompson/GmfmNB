@@ -122,3 +122,4 @@
 - [县城房地产转型，告别土地财政之后怎么走](https://github.com/opsrobertthompson/GmfmNB/commit/afd27a501c425403bc08e159ee60f662348aa3d1)
 - [服务业的恢复速度，和居民消费信心高度绑定](https://github.com/opsrobertthompson/GmfmNB/commit/857c007252f377cd8471c408171897c83258d6c5)
 - [个人信息被滥用，普通人维权投诉途径汇总](https://github.com/opsrobertthompson/GmfmNB/commit/37cb39dcb4d3cc86ffb5bfb12c3a61cde41b4488)
+- [宏观数据持续回暖，小微企业生存依旧煎熬](https://github.com/opsrobertthompson/GmfmNB/commit/d1e81f096b2b6ac3a4229561e06d8cb5a3e2e7ad)

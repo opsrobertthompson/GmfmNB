@@ -113,3 +113,4 @@
 - [失地农民养老保险办理条件土地被征收怎么参保](https://github.com/opsrobertthompson/GmfmNB/commit/4994c50cb14581d4d21a44f4636d2351adbed983)
 - [收缩城市公共资源如何优化配置](https://github.com/opsrobertthompson/GmfmNB/commit/bdcbb64b87bf96eb1a5c91ee12c2a5d83305a2fa)
 - [消息处理模拟开源 Demo 完整源码展示消息流转完整流程](https://github.com/opsrobertthompson/GmfmNB/commit/3053f2590fbacf56997efcf078aaf7d5d2e9b443)
+- [开源模型微调数据集，私有业务数据泄露隐患](https://github.com/opsrobertthompson/GmfmNB/commit/d982139a2b9ba6d1dc12a2324bdc86cb563ad9da)

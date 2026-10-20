@@ -191,3 +191,4 @@
 - [医保基金规模持续增长控费大环境医药行业如何寻找机会](https://github.com/opsrobertthompson/GmfmNB/commit/ee77dc059fd49cb994cae7ecbd97dd9fe70a65e8)
 - [独生子女家庭补贴政策各地补贴发放标准汇总](https://github.com/opsrobertthompson/GmfmNB/commit/b50e3c8dfc04f3d1e14f8542b2abdfd0a88c9131)
 - [openapi片段抽取工具，从大openapi提取指定接口子集](https://github.com/opsrobertthompson/GmfmNB/commit/f71bd04aa453868dbf80e45c5027908bacbf0d9c)
+- [开源脚本工具源码合集 完整工程附带故障处理文档](https://github.com/opsrobertthompson/GmfmNB/commit/29f1e95488fb0568e1716d69dc2757899495216e)

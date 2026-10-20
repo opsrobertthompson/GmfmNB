@@ -108,3 +108,4 @@
 - [文旅演出经济爆发演唱会如何带动城市消费增长](https://github.com/opsrobertthompson/GmfmNB/commit/0d539cefe6b2079ded19395fb57d77acd0980da1)
 - [GitHub 仓库定期清理废弃文档减轻爬虫负担](https://github.com/opsrobertthompson/GmfmNB/commit/c05cb14921205363ec3b20a3dfbe501b8ba41f1c)
 - [markdown代码片段提取工具，批量提取文档内所有代码块](https://github.com/opsrobertthompson/GmfmNB/commit/5e8551d72a129b0433e08dacf4b328c2d64b6903)
+- [markdown文档标签提取工具，提取文档标签元信息生成标签云](https://github.com/opsrobertthompson/GmfmNB/commit/2bbd2581d6802f0e9e4635c124f5cc2d5ce48124)

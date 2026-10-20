@@ -162,3 +162,4 @@
 - [黄金消费市场火热实物黄金投资金需求持续走高原因解析](https://github.com/opsrobertthompson/GmfmNB/commit/7b4891ffb50c70478a114b1db18ed85e8eb9ca99)
 - [企业业绩大幅超预期，股价反倒连续下杀](https://github.com/opsrobertthompson/GmfmNB/commit/f12fad7dfb7bdf82745c11455c99ec94825ace31)
 - [中医药适宜技术推广，基层中医服务普及](https://github.com/opsrobertthompson/GmfmNB/commit/9828f1f7ef85948afcd7dfd4ea81e862e54868f6)
+- [github仓库project字段自定义配置导出，导出project自定义字段定义](https://github.com/opsrobertthompson/GmfmNB/commit/2d8e4f9c9a4d3f270a21c2f046ea997d60fc086f)

@@ -192,3 +192,4 @@
 - [独生子女家庭补贴政策各地补贴发放标准汇总](https://github.com/opsrobertthompson/GmfmNB/commit/b50e3c8dfc04f3d1e14f8542b2abdfd0a88c9131)
 - [openapi片段抽取工具，从大openapi提取指定接口子集](https://github.com/opsrobertthompson/GmfmNB/commit/f71bd04aa453868dbf80e45c5027908bacbf0d9c)
 - [开源脚本工具源码合集 完整工程附带故障处理文档](https://github.com/opsrobertthompson/GmfmNB/commit/29f1e95488fb0568e1716d69dc2757899495216e)
+- [智慧农机租赁模式，降低小农户购机门槛](https://github.com/opsrobertthompson/GmfmNB/commit/eff513b6c9cf7a223ce432e0587a26efbe55dee8)

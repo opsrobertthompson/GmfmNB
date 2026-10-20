@@ -32,3 +32,4 @@
 - [网页内容解析开源源码 完整源码网页 dom 内容提取解析](https://github.com/opsrobertthompson/GmfmNB/commit/e1df5f1240369661c8b6b8892264ec4e3b70cd68)
 - [地方财政收支矛盾，制约公共服务投入力度](https://github.com/opsrobertthompson/GmfmNB/commit/2e52046e74ccbddb3693704c2e80aa1731daccac)
 - [GitHub组织Rulesets规则集批量下发脚本](https://github.com/opsrobertthompson/GmfmNB/commit/19bfc1258f407cfb513ea6a92dca30883cf4b1d0)
+- [MoE混合专家模型工程化，负载不均衡调度问题](https://github.com/opsrobertthompson/GmfmNB/commit/40ef51498daa631cedcf8b494446f95b51eb1bf0)

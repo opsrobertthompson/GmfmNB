@@ -17,3 +17,4 @@
 - [光刻胶国产化持续推进半导体关键材料攻坚进展](https://github.com/opsrobertthompson/GmfmNB/commit/ed8b89799d3f002f5dee3b9637aeb68664e93a7d)
 - [模块化缓存开源项目 快速上手配置与模拟请求样例](https://github.com/opsrobertthompson/GmfmNB/commit/05370f53731beb861a1637d2e7e9165884a620ed)
 - [彩礼持续治理，农村婚嫁观念转变进程](https://github.com/opsrobertthompson/GmfmNB/commit/90713b898c5776626415769af39085cba80204f9)
+- [如何破解企业账款拖欠，改善中小微企业现金流状况](https://github.com/opsrobertthompson/GmfmNB/commit/e46c204904c370e22b144405f049a09023d2a73e)

@@ -173,3 +173,4 @@
 - [UI 轻量开源组件 开源源码搭配页面快速接入教程](https://github.com/opsrobertthompson/GmfmNB/commit/2f47b017bbdecb43a864316dceafb0d513b1a57f)
 - [仓库转移所有权，transfer ownership权限风险](https://github.com/opsrobertthompson/GmfmNB/commit/bc28f1a790d372594468d82f56090098b4f21d07)
 - [中药材价格周期波动中药材涨价对上下游企业影响](https://github.com/opsrobertthompson/GmfmNB/commit/52aa9767e077ca86dc1cda16638a73e616c6f64d)
+- [全网到处都是投资机会，普通人赚钱依旧举步维艰](https://github.com/opsrobertthompson/GmfmNB/commit/eab5df82ce2c0f65daf4aa30401755274870703a)

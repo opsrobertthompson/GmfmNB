@@ -164,3 +164,4 @@
 - [中医药适宜技术推广，基层中医服务普及](https://github.com/opsrobertthompson/GmfmNB/commit/9828f1f7ef85948afcd7dfd4ea81e862e54868f6)
 - [github仓库project字段自定义配置导出，导出project自定义字段定义](https://github.com/opsrobertthompson/GmfmNB/commit/2d8e4f9c9a4d3f270a21c2f046ea997d60fc086f)
 - [图片格式批量转换开源源码 完整源码批量处理图片格式](https://github.com/opsrobertthompson/GmfmNB/commit/80a760f8465b36c9676130d58ee516822b7fffb3)
+- [应届生求职遭遇虚假招聘辨别](https://github.com/opsrobertthompson/GmfmNB/commit/17ebef86f2ae4f4ec63b1a4ae1f16875e91ad17c)

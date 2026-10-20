@@ -109,3 +109,4 @@
 - [GitHub 仓库定期清理废弃文档减轻爬虫负担](https://github.com/opsrobertthompson/GmfmNB/commit/c05cb14921205363ec3b20a3dfbe501b8ba41f1c)
 - [markdown代码片段提取工具，批量提取文档内所有代码块](https://github.com/opsrobertthompson/GmfmNB/commit/5e8551d72a129b0433e08dacf4b328c2d64b6903)
 - [markdown文档标签提取工具，提取文档标签元信息生成标签云](https://github.com/opsrobertthompson/GmfmNB/commit/2bbd2581d6802f0e9e4635c124f5cc2d5ce48124)
+- [内网主机资产扫描脚本，探测存活主机获取设备信息](https://github.com/opsrobertthompson/GmfmNB/commit/7455fee663712e14aa0ba889056a16d3a68ef837)

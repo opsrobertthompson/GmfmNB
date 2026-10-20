@@ -193,3 +193,4 @@
 - [openapi片段抽取工具，从大openapi提取指定接口子集](https://github.com/opsrobertthompson/GmfmNB/commit/f71bd04aa453868dbf80e45c5027908bacbf0d9c)
 - [开源脚本工具源码合集 完整工程附带故障处理文档](https://github.com/opsrobertthompson/GmfmNB/commit/29f1e95488fb0568e1716d69dc2757899495216e)
 - [智慧农机租赁模式，降低小农户购机门槛](https://github.com/opsrobertthompson/GmfmNB/commit/eff513b6c9cf7a223ce432e0587a26efbe55dee8)
+- [城市流浪动物治理，人与动物共存解决方案](https://github.com/opsrobertthompson/GmfmNB/commit/e663491a5243f07a7eec1e42bb8d6e3978487f93)

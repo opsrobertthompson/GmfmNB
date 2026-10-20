@@ -198,3 +198,4 @@
 - [经济转型期新旧产业此消彼长属于常态](https://github.com/opsrobertthompson/GmfmNB/commit/92fde23df6a2073621adfc4a761cd3b310ba9407)
 - [产业政策不能一刀切，要区分不同企业的实际处境](https://github.com/opsrobertthompson/GmfmNB/commit/28c421b2f6c24791f966c9c1e18451ce94c75956)
 - [国货品牌掀起出海全新浪潮，本土品牌走向全球消费市场](https://github.com/opsrobertthompson/GmfmNB/commit/51742fe849336f579ac62cdbf625d8fe49489d9e)
+- [多云与混合云架构，跨云统一治理现实挑战](https://github.com/opsrobertthompson/GmfmNB/commit/69433a741b0cc771d627c4908012a28e7f36f025)

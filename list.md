@@ -177,3 +177,4 @@
 - [数据库分库分表陷阱，过度拆分带来运维灾难](https://github.com/opsrobertthompson/GmfmNB/commit/974b3843aefd0b7ce7a6d23e688300c82423d38a)
 - [智慧灌溉普及，小农户农业降本增效现实](https://github.com/opsrobertthompson/GmfmNB/commit/cee2df73c8e1f4b533e59648617e5db319ad8758)
 - [开源微调框架泛滥，微调参数配置文档缺失](https://github.com/opsrobertthompson/GmfmNB/commit/b0e32bc11cb21413fbc58369ec3f00fa939e3160)
+- [社区嵌入式托育，家门口婴幼儿照护服务发展](https://github.com/opsrobertthompson/GmfmNB/commit/a9fa2345bda700aa2220bb63d252c84a4e808fe2)

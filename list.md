@@ -172,3 +172,4 @@
 - [存款利率持续探底，老百姓依旧疯狂存钱](https://github.com/opsrobertthompson/GmfmNB/commit/d9f77afc5a62d2ddcf43711af5148dbfbacf60a1)
 - [UI 轻量开源组件 开源源码搭配页面快速接入教程](https://github.com/opsrobertthompson/GmfmNB/commit/2f47b017bbdecb43a864316dceafb0d513b1a57f)
 - [仓库转移所有权，transfer ownership权限风险](https://github.com/opsrobertthompson/GmfmNB/commit/bc28f1a790d372594468d82f56090098b4f21d07)
+- [中药材价格周期波动中药材涨价对上下游企业影响](https://github.com/opsrobertthompson/GmfmNB/commit/52aa9767e077ca86dc1cda16638a73e616c6f64d)

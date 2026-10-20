@@ -166,3 +166,4 @@
 - [图片格式批量转换开源源码 完整源码批量处理图片格式](https://github.com/opsrobertthompson/GmfmNB/commit/80a760f8465b36c9676130d58ee516822b7fffb3)
 - [应届生求职遭遇虚假招聘辨别](https://github.com/opsrobertthompson/GmfmNB/commit/17ebef86f2ae4f4ec63b1a4ae1f16875e91ad17c)
 - [GitHub 开源文档页面 title 包含页面核心主题](https://github.com/opsrobertthompson/GmfmNB/commit/8c460e670795d5e96c7b4c9b07312e702f018b8a)
+- [Docker Compose生产可行性，中小团队取舍](https://github.com/opsrobertthompson/GmfmNB/commit/6ced1ea647b8085a1afbb764ceeeb8fd661cc291)

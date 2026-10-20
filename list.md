@@ -73,3 +73,4 @@
 - [Agent反向提示泄露，内部系统信息被模型带出](https://github.com/opsrobertthompson/GmfmNB/commit/c45aacf7f53a4a50bb19bb868b8eeefe5659866d)
 - [DNS解析故障，缓存、TTL、劫持真实线上事故](https://github.com/opsrobertthompson/GmfmNB/commit/2119aa088f08278f5fc94f3a429c7ecb91493634)
 - [数字贸易高速增长数字产品数字服务成为外贸新引擎](https://github.com/opsrobertthompson/GmfmNB/commit/ae2b5f917bd451e8ca712b82cdca174a3e7aabcf)
+- [简易动态DNS开源服务，家庭公网IP变动自动更新域名](https://github.com/opsrobertthompson/GmfmNB/commit/4f15bc606385f137d4b80b49fc4773dee3777c72)

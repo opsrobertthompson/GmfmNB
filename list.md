@@ -132,3 +132,4 @@
 - [叠层钙钛矿中试加速下一代光伏距离量产还有多久](https://github.com/opsrobertthompson/GmfmNB/commit/d324813c9db3fb63221a357fb9734cddab6c0346)
 - [银行利润开始修复，存款利息很难回到从前](https://github.com/opsrobertthompson/GmfmNB/commit/b5645a5947fef56a48c177455fb27711d1e667df)
 - [数据库自动化实战源码集合 完整实现代码与数据库报错排查](https://github.com/opsrobertthompson/GmfmNB/commit/94264335d65f1e20790b701c8cc826101f4228f9)
+- [手机号邮箱批量校验脚本，格式过滤去重清洗测试数据集](https://github.com/opsrobertthompson/GmfmNB/commit/b67340209ded2ab9a461200dae12f0ab6cb76bd8)
